@@ -1,1 +1,40 @@
 /*  your css code here. If applicable */
+body{
+	background-color:skyblue;
+	margin-left:0px;
+}
+.first-paragraph{
+	color:white;
+	background-color:black;
+}
+.last-paragraph{
+	color:red;
+}
+.first{
+	background-color:white;
+	color:black;
+	padding:10px;
+}
+.second{
+	background-color:rgb(112,128,144);
+	color:black;
+	padding:5px;
+}
+.third{
+	background-color:pink;
+	color:black;
+	padding:5px;
+	
+}
+.fourth{
+	background-color:rgb(112,128,144);
+	color:black;
+	padding:5px;
+	
+}
+.fifth{
+	background-color:white;
+	color:black;
+	padding-bottom:10px;
+}
+
